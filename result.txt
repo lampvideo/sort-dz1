@@ -1,0 +1,9 @@
+SHELL	num: 100 duration: 0	checked true
+BUBBLE	num: 100 duration: 1	checked true
+INSERT	num: 100 duration: 1	checked true
+SHELL	num: 1000 duration: 2	checked true
+BUBBLE	num: 1000 duration: 8	checked true
+INSERT	num: 1000 duration: 7	checked true
+SHELL	num: 10000 duration: 9	checked true
+BUBBLE	num: 10000 duration: 184	checked true
+INSERT	num: 10000 duration: 41	checked true
